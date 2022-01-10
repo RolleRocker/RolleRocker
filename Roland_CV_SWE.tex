@@ -1,0 +1,178 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+\usepackage[utf8]{inputenc}
+%----------------------------------------------------------------------------------------
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0em}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.72\textwidth} % 45% of the page width for name
+	%\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% If your name is very short, use just one of the lines below
+	% If your name is very long, reduce the font size or make the minipage wider and reduce the others proportionately
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Roland}}}}}\\ % First name
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Lidström}}}}} % Last name
+	\vspace{5pt}
+	
+	{\huge Java Developer} % Career or current job title
+	 
+	\vspace{12pt}
+	\hfill
+\end{minipage}
+\begin{minipage}[t]{0.28\textwidth} % 27.5% of the page width for the first row of icons
+	%\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\icon{Phone}{10}{070-355 8057}
+	
+	\icon{At}{10}{\href{mailto:roland.lidstrom@gmail.com}{roland.lidstrom@gmail.com}}
+
+	\icon{Twitter}{10}{\href{https://twitter.com/@LidstromR}{@LidstromR}}
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	
+	%\icon{MapMarker}{12}{Black Mesa East}\\
+	%\hfill
+\end{minipage}
+%\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\cvsect{Who am I?}
+
+\begin{minipage}[t]{0.45\textwidth} % 40% of the page width for the introduction text
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+Senior Developer
+ with a demonstrated history of working in the financial services
+ industry, both on the bank side and on the exchange side. Skilled in 
+resilient distributed system architecture, Java, Spring Framework and Databases.
+
+Lately I've been working as a senior developer with two different projects that have allowed me to explore more UI development as well. 
+	  
+\textbf{Keyword:} JAVA,Spring MVC,Postgres,SQL,Tomcat.
+
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.47\textwidth} % 50% of the page for the skills bar chart
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	\begin{barchart}{5.5}
+		\baritem{Java}{95}
+		\baritem{Spring MVC}{50}
+		\baritem{Spring Security}{20}
+		\baritem{JavaScript}{30}
+		\baritem{JQuery}{40}
+		\baritem{SQL}{70}
+		\baritem{Git}{55}
+		%\baritem{LaTeX}{35}
+	\end{barchart}
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\cvsect{Experience}
+
+\begin{entrylist}
+    \entry{2019 —\\\footnotesize{Full Time}}
+        {Developer}
+        {ITS}
+        {Lead developer for two projects where I am involved 
+		in the entire development cycle, from start to finish.}
+
+    \entry{2019\\\footnotesize{10m}}
+        {Developer}    
+        {Nasdaq}
+        {Java Developer on legacy systems, onboarding from Cinnober.}
+	\entry{2012 -- 2019\\\footnotesize{6y 9m}}
+		{Developer}
+		{Cinnober}
+		{Cinnober is an independent technology provider which serves marketplaces, clearing-houses,
+        banks and other actors that have extreme demands on business functionality, high throughput
+         and low latency. I was heavily involved with technikal testing of core systems.}
+	\entry{2008 -- 2012\\\footnotesize{3y 8m}}
+		{Developer}
+		{Nomura}
+		{The work here is the continuation of the work I did for Lehman Brothers.}
+	\entry{2007 -- 2008\\\footnotesize{1y 7m}}
+		{Developer}
+		{Lehman Brothers}
+        {Worked as a Developer at the multinational investment
+        bank Lehman Brothers.  At Lehman, I worked
+        with different projects and have been involved in the development
+        and  maintenance of several financial database applications with
+         demands on performance as well as a web interface facing 
+         internal clients. Most of the work was done in Java or 
+         in the in-memory database language Q/KDB+. \\
+         Responsible for 24/7 operations of time critical applications.} \raggedright
+		\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\vspace{-12pt}
+\cvsect{Education}\raggedright
+\begin{entrylist}
+	\entry{2007 -- 2013}
+		{Bachelor's Degree Cs.}
+		{Umeå University}
+		{Explicitly Blocked Algorithms for Some 
+        Triangular \\ Discrete-time Matrix Equations on 
+        Shared Memory \\ Platforms.}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+\cvsect{Language}
+
+	\textbf{Swedish} Native
+
+	\textbf{English} Proficient
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+\cvsect{Hobbies}
+
+ I like reading to relax, or working on some hobby project in my home.
+\end{minipage}
+\hfill
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

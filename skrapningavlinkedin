@@ -1,0 +1,130 @@
+I have a lot of experience working with (designing/implementing) highly distributed 
+and fail-safe financial applications within clearing, risk and data management,
+ mostly Java-based, but I have some experience in most common languages.
+
+Lately I've been working with cloud first data warehouse solutions combining managed services with dockerized apps
+
+
+When I started at Cinnober I worked as a tester, mostly writing functional tests that used the entire
+ system to ensure its functionality. After a while I became a developer in the same project as well as
+  taking part in maintaining a customer facing specification regarding a communication protocol (FIX).
+After some time I started as test manager in another project, handling the different aspects of testing 
+done in that project. Together with leading a job to enhance the quality of the product.
+Near the end of 2015 I started to combine this with a job as a Business Analyst in the same project
+ and has since around May 2016 been a full time BA. Between March 2017 and end of August 2017 I was 
+ the Lead BA in that project. During September I had a supporting role before I left the company
+  completely to focus on my new endeavours.
+
+
+
+ Responsible for 24/7 operations of time critical applications.
+  Built APIs for querying our KDB+ databases through an XML based interface used by other teams in Nomura around the world.
+  • Big Data systems backed by KDB+/Q or SQL databases. Mainly a Java stack on top of that, from backend to frontend. Also Jython and Bash for reporting and scripting.
+• Main Developer for Nomura’s new exchange cost calculation service used for calculating the trading, settlement and clearing fees on an order and executions level.
+
+
+Senior software engineer and scrum master in a team of 8-10 engineers, building a real time clearing platform for the London Metal Exchange.
+
+• Full stack engineering from Java backend to GWT-based frontend and leveraging technologies such as Bash for scripts and MySQL data storage.
+• Scrum master for the team, making sure the team go through the daily and weekly agile phases leading to keeping the team focused and hitting the deadlines.
+
+Architect and project manager for a team of 25-30 engineers, business analysts and testers. Building and maintaining a real time clearing platform for the London Metal Exchange.
+
+• Architect and lead developer for the project, 100% Java.
+• Responsible for the planning and delivery of the project. Improve and change internal
+ processes to increase the efficiency of the team.
+• Organize and lead the work regarding the architectural design of new features in the 
+system, both internally and with the customer.
+• Production issue management, assist the customer in solving problems but also leading
+ the work of finding and fixing the root cause.
+
+Senior Devster (Developer/Tester) with a long experience of tests of critical software in 
+aerospace and finance industry.
+
+I also likes very much to teach. Have done numerous courses, first in flight technology 
+(for workers building aircrafts, people in the airforce and pilots) and later in test theory, 
+test strategies and test automation.
+
+Alexander is a software developer and Scrum Master, passionate about creating a lean, 
+consistent and reliable development environment, with focus on people. 
+He holds a Bachelor of Science, Electrical and Computer Engineering, degree from 
+Umeå University. Alexander has a general interest in new software technologies and
+ teams dynamics. He has professional experience in software development and testing,
+  Scrum mastery, and tutoring. In his spare time, Alexander works with computer graphics, 
+  mobile application development and game development (Unity3D).
+
+Notable certifications: Professional Scrum Master (2016), Scrum Product Owner (2018)
+
+
+Working in smaller scrum teams, developing and maintaining micro services, providing data and 
+access to various parts of Telia and its associates. The services are built on tech like 
+spring-boot, swagger, Java 8+, while hosting on WSO2 and Apigee.
+
+Writing automatic regression tests for Skatteverket (Swedish Tax Agency) on behalf of Acino.
+ The job also included manually testing as well as writing test cases and documentation for
+  an old data storing system. Part of the work required some studying of laws and business 
+  rules to be able to deliver tests with good coverage. No automatic test tools were 
+  vailable at the time, Alexander had to develop a simplified TUXEDO test tool in perl. 
+  Creativity and system knowledge was key while testing old legacy system.
+
+Working with: Perl, SQL, scripting, C, Tuxedo
+
+Working as a Scrum Master and developer for Folkbokföringen (National Census) on behalf of TeamTech. Working in a team of 6 people, developing a new front-end system and back-end system for immigration, while also creating generic micro services usable by all of Skatteverket. Aside the developing tasks Alexander was handling day to day scrum activities and inspiring others. This position has trained and prepared Alexander for complex organisations, especially while it was transitioning to a agile workflow, and the organisational and personnel issues that emerged.
+
+Working with: Java 8, Swagger, Angular, HTML, Typescript, XML etc.
+
+Holds a solid foundation with over 15 years in the IT industry where 6+ years resides in
+ the fin-tech area building various financial platforms. Past involvement consists of server
+  and fullstack development, AI and Machine Learning where focus laid in future prospects and development.
+
+Currently involved with a fin-tech startup building financial services for a global market.
+
+Cinnober is an independent technology provider which serves marketplaces, clearinghouses,
+ banks and other actors that have extreme demands on business functionality, high throughput
+  and low latency.
+
+Started off by extending functionality for a pre-clearing system hosted by NYSE Liffe.
+ Following up which has been revealed by MarkitSERV as "Credit Centre". A pre-trade credit 
+ check solution for OTC derivatives which implements the regulations of the Dodd-Frank act 
+ signed July 2010 by Barack Obama.
+
+Also been involved developing post-trade reporting technology (BOAT) and evaluating
+ future prospects in upcoming MiFiD 2 specs. Continued as a developer on the Australian
+  Stock Exchange (ASX) project. Foremost working with ITCH and FIX where ITCH is the 
+  low-latency protocol supplied by ASX to their customers.
+
+Ended my employment working as market data FIX expert for London Metal Exchange Trading and Clearing.
+
+
+Technical Architect, Senior Developer and manager with a demonstrated history of working in the 
+financial services industry, both on the bank side as well as on the exhange side. Skilled in 
+resilient distributed systems architecture, primarily with Java implementation. Also experienced 
+manager coordinating and driving development within teams, between teams and with customers.
+
+Strong engineering professional with a Master in Computing Science from Umeå University, focused 
+on distributed systems.
+
+Responsible for the architecture, technical vision and development of one of the clearing house 
+solutions/products at Nasdaq. Managing the team of developers building the mentioned product and
+ delivering highly customized customer solutions.
+
+
+Product Architect and Line Manager
+Dates EmployedMar 2018 – Apr 2019
+Employment Duration1 yr 2 mos
+LocationUmea, Sweden
+Responsible for the architecture, technical vision and development of the Cinnober real-time clearing house solution/product. Managing a team of developers building the mentioned product.
+TitleSenior Developer and Project Manager
+Dates EmployedAug 2016 – Feb 2018
+Employment Duration1 yr 7 mos
+LocationUmea, Sweden
+Working with and managing the Cinnober team delivering a new real-time clearing house solution for exchange traded derivatives at JPX (Japan Exchange Group)
+TitleSenior Developer
+Dates EmployedMay 2012 – Jul 2016
+Employment Duration4 yrs 3 mos
+LocationUmea, Sweden
+Senior Software developer at Cinnober
+- SCRUM master for a product team of 5-10 people
+- Designing and planning of new functionality and systems for the Cinnober product
+- Implementing new and and improving existing product solutions
+- Integrating product solutions into the Cinnober customer projetcts
